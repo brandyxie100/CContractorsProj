@@ -1,0 +1,17 @@
+# Ignore
+.env
+*.exe
+*.test
+bin/
+coverage.out
+node_modules/
+dist/
+.DS_Store
+*.log
+frontend/coverage/
+backend/coverage/
+/.cursor
+.DS_Store
+backend/.env.local
+backend/.env.example
+.cursor/rules/typescript-frontend.mdc

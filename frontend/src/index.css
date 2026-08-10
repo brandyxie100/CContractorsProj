@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+:root {
+  --color-navy: #1a2b3c;
+  --color-steel: #2c5f7c;
+  --color-teal: #1f6b5a;
+  --color-available: #1b7a4e;
+  --color-assigned: #2c5f7c;
+  --color-transit: #b8860b;
+  --color-maintenance: #c45c26;
+  --color-reserved: #6b4c9a;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  background: #f4f6f8;
+  color: #2d2d2d;
+}
