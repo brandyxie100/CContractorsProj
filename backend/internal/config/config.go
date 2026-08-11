@@ -33,7 +33,7 @@ func Load() Config {
 		RefreshTTL:        time.Duration(refreshHours) * time.Hour,
 		CORSOrigin:        env("CORS_ORIGIN", "http://localhost:5173"),
 		SeedAdminEmail:    env("SEED_ADMIN_EMAIL", "admin@clements.local"),
-		SeedAdminPassword: env("SEED_ADMIN_PASSWORD", "admin123"),
+		SeedAdminPassword: env("SEED_ADMIN_PASSWORD", "admin@123"),
 	}
 }
 

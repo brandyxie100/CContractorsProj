@@ -33,7 +33,7 @@ go run ./cmd/api
 ```
 
 API: `http://localhost:8080`  
-Default seed: `admin@clements.local` / `admin123`
+Default seed: `admin@clements.local` / `admin@123`
 
 ### Frontend
 

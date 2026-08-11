@@ -116,7 +116,7 @@ jobs:
         image: postgres:15
         env:
           POSTGRES_USER: clements
-          POSTGRES_PASSWORD: clements
+          POSTGRES_PASSWORD: Clements!@#456
           POSTGRES_DB: equipment_test
         ports:
           - 5432:5432

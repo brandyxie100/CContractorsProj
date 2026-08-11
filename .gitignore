@@ -15,3 +15,4 @@ backend/coverage/
 backend/.env.local
 backend/.env.example
 .cursor/rules/typescript-frontend.mdc
+.DS_Store

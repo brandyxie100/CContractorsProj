@@ -9,7 +9,7 @@ export function LoginPage() {
   const { login } = useAuth();
   const navigate = useNavigate();
   const [email, setEmail] = useState('admin@clements.local');
-  const [password, setPassword] = useState('admin123');
+  const [password, setPassword] = useState('admin@123');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
 

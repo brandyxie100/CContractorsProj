@@ -4,7 +4,7 @@ services:
     container_name: clements-postgres
     environment:
       POSTGRES_USER: clements
-      POSTGRES_PASSWORD: clements
+      POSTGRES_PASSWORD: clements!456
       POSTGRES_DB: equipment
     ports:
       - "5432:5432"
