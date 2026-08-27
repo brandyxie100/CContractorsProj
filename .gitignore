@@ -10,9 +10,8 @@ dist/
 *.log
 frontend/coverage/
 backend/coverage/
-/.cursor
+.cursor/
 .DS_Store
 backend/.env.local
 backend/.env.example
-.cursor/rules/typescript-frontend.mdc
 .DS_Store
